@@ -91,7 +91,7 @@ function setInformation(){
 }
 
 function setMainBackground(){
-  getElement('background-image').style.backgroundImage = 'url(https://imgur.com/a/HRsYDJY';
+  getElement('background-image').style.backgroundImage = 'url(https://i.imgur.com/MRQUPbk.jpeg';
 }
 
 function checkStormMusic(){
